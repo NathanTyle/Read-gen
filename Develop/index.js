@@ -34,7 +34,7 @@ const questions = [{
     name: "Liscense"
 }, {
     type: "input",
-    message: "If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.",
+    message: "If you created an application or package and would like other developers to contribute it.",
     name: "Contributors"
 }, {
     type: "input",
