@@ -22,3 +22,6 @@
   The folloing is needed to run the test: npm test
   # Questions
   If you have any questions about the repo, contact tylercharro@gmail.com
+
+  Screencastify: https://drive.google.com/file/d/1r3dcSP5Irl698PyY__I-KDidZgrHo2aY/view
+  
