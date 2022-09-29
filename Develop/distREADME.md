@@ -1,7 +1,7 @@
 # Read-gen
   https://github.com/NathanTyle/Read-gen
   # Description
-  This is a generator that creates README's after the user answers a few brief questions
+  creates a README after answering questions
   # Table of contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -12,12 +12,12 @@
   # Installation
   The following necessary dependecies must be installed to run the aplication: npm i
   # Usage
-  Used to create a professional README
+  to create a professional readme
   # License
-  This project is licensed under the MIT license.
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-  # Credits
-  Credits: N/A
+  This project is licensed under the None license.
+  ![GitHub license](https://img.shields.io/badge/license-None-blue.svg)
+  # Contributors
+  Contributors: youtube.com
   # Tests
   The folloing is needed to run the test: npm test
   # Questions
