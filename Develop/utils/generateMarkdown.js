@@ -13,7 +13,7 @@ function generateMarkdown(data) {
   # Installation
   The following necessary dependecies must be installed to run the aplication: ${data.Installation}
   # Usage
-  In order to use this app, ${data.Usage}
+  ${data.Usage}
   # License
   This project is licensed under the ${data.License} license.
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)

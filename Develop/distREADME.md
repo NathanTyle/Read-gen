@@ -1,12 +1,12 @@
 # Read-gen
   https://github.com/NathanTyle/Read-gen
   # Description
-  this is a generator that creates README's after user answers brief questions
+  This is a generator that creates README's after the user answers a few brief questions
   # Table of contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [Credits](#credits)
+  * [Contributors](#contributors)
   * [Tests](#tests)
   * [Questions](#questions)
   # Installation
@@ -21,4 +21,4 @@
   # Tests
   The folloing is needed to run the test: npm test
   # Questions
-  If you have any questions about the repo, contact undefined
+  If you have any questions about the repo, contact tylercharro@gmail.com
