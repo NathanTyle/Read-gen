@@ -6,6 +6,10 @@ const generateMarkdown = require('./utils/generateMarkdown');
 // TODO: Create an array of questions for user input
 const questions = [{
     type: "input",
+    message: "what is your GitHub username?",
+    name: "GitHub"
+}, {
+    type: "input",
     message: "What is the title of the project?",
     name: "Title"
 }, {
@@ -18,31 +22,30 @@ const questions = [{
     name: "Table of Contents"
 }, {
     type: "input",
-    message: "What are the steps required to install your project?",
-    name: "Installation"
+    message: "What step is required to install your project?",
+    name: "Installation",
+    default: "npm i"
 }, {
     type: "input",
-    message: "Provide instructions for use.",
+    message: "What would the client use this for?",
     name: "Usage"
+}, {
+    type: "list",
+    message: "What licenses does your project use?",
+    name: "License",
+    choices: ["APACHE2.0", "Boost1.0", "BSD2" , "MIT", "None"]
 }, {
     type: "input",
     message: "List your collaborators.",
     name: "Credits"
 }, {
     type: "input",
-    message: "Let other developers know what they can and cannot do with your project.",
-    name: "Liscense"
-}, {
-    type: "input",
-    message: "List contributors who contributed to your project.",
-    name: "Contributors"
-}, {
-    type: "input",
     message: "How do you run tests for your app?.",
-    name: "Tests"
+    name: "Tests",
+    default: "npm test"
 }, {
     type: "input",
-    message: "leave contact info in case anyone has any questions about your project and or README.",
+    message: "Leave your email in case anyone has any questions about your project and or README.",
     name: "Questions"
 }];
 
