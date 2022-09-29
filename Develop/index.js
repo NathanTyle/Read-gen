@@ -10,7 +10,7 @@ const questions = [{
     name: "Title"
 }, {
     type: "input",
-    message: "Provide a short description explaining the what, why, and how of your project.",
+    message: "Provide a short description of your project.",
     name: "Description"
 }, {
     type: "input",
@@ -22,7 +22,7 @@ const questions = [{
     name: "Installation"
 }, {
     type: "input",
-    message: "Provide instructions and examples for use. Include screenshots as needed.",
+    message: "Provide instructions for use.",
     name: "Usage"
 }, {
     type: "input",
@@ -30,15 +30,15 @@ const questions = [{
     name: "Credits"
 }, {
     type: "input",
-    message: "The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project.",
+    message: "Let other developers know what they can and cannot do with your project.",
     name: "Liscense"
 }, {
     type: "input",
-    message: "If you created an application or package and would like other developers to contribute it.",
+    message: "List contributors who contributed to your project.",
     name: "Contributors"
 }, {
     type: "input",
-    message: "Go the extra mile and write tests for your application. Then provide examples on how to run them here.",
+    message: "How do you run tests for your app?.",
     name: "Tests"
 }, {
     type: "input",
