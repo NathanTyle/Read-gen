@@ -12,9 +12,9 @@
   # Installation
   The following necessary dependecies must be installed to run the aplication: npm i
   # Usage
-  In order to use this app, Used to create a professional README
+  Used to create a professional README
   # License
-  This project is licensed under the None license.
+  This project is licensed under the MIT license.
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   # Credits
   Credits: N/A

@@ -16,9 +16,9 @@ function generateMarkdown(data) {
   ${data.Usage}
   # License
   This project is licensed under the ${data.License} license.
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-  # Credits
-  Credits: ${data.Contributors}
+  ![GitHub license](https://img.shields.io/badge/license-${data.License}-blue.svg)
+  # Contributors
+  Contributors: ${data.Contributors}
   # Tests
   The folloing is needed to run the test: ${data.Tests}
   # Questions
