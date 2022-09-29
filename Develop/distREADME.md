@@ -1,7 +1,7 @@
-# Ham
-  https://github.com/NathanTyle/Ham
+# Read-gen
+  https://github.com/NathanTyle/Read-gen
   # Description
-  Pork Meat
+  this is a generator that creates README's after user answers brief questions
   # Table of contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -12,9 +12,9 @@
   # Installation
   The following necessary dependecies must be installed to run the aplication: npm i
   # Usage
-  In order to use this app, 
+  In order to use this app, Used to create a professional README
   # License
-  This project is licensed under the APACHE2.0 license.
+  This project is licensed under the None license.
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   # Credits
   Credits: N/A

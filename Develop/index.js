@@ -37,7 +37,7 @@ const questions = [{
 }, {
     type: "input",
     message: "List your collaborators.",
-    name: "Credits"
+    name: "Contributors"
 }, {
     type: "input",
     message: "How do you run tests for your app?.",

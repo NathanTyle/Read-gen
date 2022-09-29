@@ -7,7 +7,7 @@ function generateMarkdown(data) {
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
-  * [Credits](#credits)
+  * [Contributors](#contributors)
   * [Tests](#tests)
   * [Questions](#questions)
   # Installation
@@ -18,11 +18,11 @@ function generateMarkdown(data) {
   This project is licensed under the ${data.License} license.
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   # Credits
-  Credits: ${data.Credits}
+  Credits: ${data.Contributors}
   # Tests
   The folloing is needed to run the test: ${data.Tests}
   # Questions
-  If you have any questions about the repo, contact ${data.Email}
+  If you have any questions about the repo, contact ${data.Questions}
 `
 }
 
